@@ -1,0 +1,15 @@
+.container-fluid{
+    background-color: rgb(12, 10, 17) ;
+    height: 100vh;
+}
+
+.container{
+    background-color: bisque;
+    max-width:  600px;
+    max-height: 640px;
+}
+
+form{
+    background-color:oldlace;
+}
+

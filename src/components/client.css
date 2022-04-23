@@ -1,0 +1,20 @@
+.container-fluid{
+    background-color: rgb(3, 43, 29) ;
+    height: 100vh;
+
+}
+
+.container{
+    background-color: bisque;
+    max-width:  700px;
+    max-height: 740px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 5px 12px rgba(0, 0, 0, 0.63);
+}
+
+form{
+    background-color:oldlace;
+    padding: 10px;
+    border-radius: 5px;
+}
+
